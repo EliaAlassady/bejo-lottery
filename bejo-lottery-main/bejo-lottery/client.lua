@@ -1,10 +1,8 @@
 local QBCore = exports['qb-core']:GetCoreObject()
 
-local QBCore = exports['qb-core']:GetCoreObject()
-
 local blips = {
     {title= "<FONT FACE='space'>".."ﺐﻴﺼﻧﺎﻴﻟﺍ ﺮﺠﺘﻣ", colour=1, id=500, x = 462.39, y = -693.65, z = 27.43}
-  }
+ }
       
 Citizen.CreateThread(function()
     for _, info in pairs(blips) do
