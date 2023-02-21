@@ -1,6 +1,6 @@
 -- BeJo-Lottery 
 
--- By : ! ALASSADY#8077 : https://discord.gg/Bs47cNDQh7
+-- By : ! ALASSADY#9991 : https://discord.gg/Bs47cNDQh7
 
 --  qb-core/shared/items.lua:  اضفه الى 
 
